@@ -1,6 +1,6 @@
 ### Welcome to Monza Systems
 
-Help with automation, servers provisioning, networking, IT security and more.
+Help with automation, Linux servers provisioning and management, networking, IT security and more.
 
 
 
