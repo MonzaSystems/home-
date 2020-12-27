@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+### Welcome to Monza Systems
 
-You can use the [editor on GitHub](https://github.com/MonzaSystems/home-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Help with automation, servers provisioning, networking, IT security and more.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Technologies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Cloud computing (GCP, AWS, Azure AD)
+- Automation (Ansible, Terraform, Bash, Python)
+- Networking (routing, NAT, Mikrotik,Haproxy, LoadBalancing, Proxy, Reverse Proxy, DNS, VPN, firewalls, Wireshark)
+- Linux servers administration (troubleshooting, provisioning, migrations)
+- Security (OSINT - online and offline, Linux hardening, nmap, hashcat, Burp Suite, Wireshark, ffuf, Amass and more )
+- Version Control Systems (GIT, GitHub, Bitbucket)
+- Web servers (nginx, Apache)
+- Databases administration (provisioning, replicas, administration || MySQL, PostreSQL)
+- Web security and infrastructure (Cloudflare, Imperva)
+- DNS (GoDaddy, PowerDNS, CloudDNS - GCP)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Contact me
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MonzaSystems/home-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Get in touch with Monza Systems](https://www.facebook.com/monzasystems)
